@@ -64,3 +64,9 @@ node_modules/
 
 # dotenv environment variables file
 .env
+
+# package-log.json
+package-log.json
+
+# firebase.json
+firebase.json
